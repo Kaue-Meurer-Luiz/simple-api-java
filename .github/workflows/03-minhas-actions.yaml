@@ -19,6 +19,6 @@
             push: false
         - name: Executar scripts
           run:
-            git branch
-            java --version
-            mvn clean package
+             git branch
+             java --version
+             mvn clean package
